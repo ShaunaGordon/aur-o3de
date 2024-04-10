@@ -1,8 +1,8 @@
 # Maintainer: xaque <xaque at duck dot com>
 
-_stablever=2310.1
-_engver=4.0.0
-_builddate="20231214"
+_stablever=2310.2
+_engver=4.2.0
+_builddate="20240409"
 _debname="o3de_latest.deb"
 _binname="o3de-nightly"
 
